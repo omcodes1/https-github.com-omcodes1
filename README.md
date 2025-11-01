@@ -1,9 +1,10 @@
-<!-- Typing animation header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Hey+there+👋+I'm+Om!;Web+Developer+%7C+Tech+Explorer;Creating+Cool+Stuff+with+Code+💻" alt="Typing SVG" />
-</h1>
+<!-- Working typing animation header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Om!;Web+Developer+%7C+Tech+Explorer;Creating+Cool+Stuff+with+Code+💻" alt="Typing Animation" />
+</p>
 
-<!-- Glowing divider -->
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/-⚡_Welcome_to_my_dark_zone_⚡-0d1117?style=for-the-badge&logoColor=00F5FF&labelColor=0d1117&color=0d1117">
 </p>
