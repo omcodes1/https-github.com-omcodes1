@@ -1,48 +1,45 @@
-<!-- Working typing animation header -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Om!;Web+Developer+%7C+Tech+Explorer;Creating+Cool+Stuff+with+Code+💻" alt="Typing Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9A00FF,00FFFF&height=120&section=header"/>
 </p>
 
-
----
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-⚡_Welcome_to_my_dark_zone_⚡-0d1117?style=for-the-badge&logoColor=00F5FF&labelColor=0d1117&color=0d1117">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9A00FF&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Om+👋;Welcome+to+my+coding+zone!;Building+clean+and+modern+web+apps." alt="Typing Animation"/>
 </p>
 
 ---
 
-### 🌌 About Me  
-I’m a Computer Diploma student who loves building clean, responsive, and modern web apps.  
-Exploring full-stack development and learning how tech can solve real-world problems.  
-Focused on growth, creativity, and writing code that feels like art 🎨  
+### ⚡ Welcome to My Dark Zone
 
 ---
 
-### ⚙️ Tech Stack  
-🧠 **Languages:** JavaScript, Python, C++  
+### 🧠 About Me
+I’m a **B.Tech student** who loves building clean, responsive, and modern web apps.  
+Also an **Animator** with a creative eye for visuals and smooth motion.  
+Currently exploring how **AI and Prompt Engineering** can enhance productivity and creativity in development.  
+Focused on **growth**, **creativity**, and writing code that feels like art 🎨.
+
+---
+
+### 🛠️ Tech Stack
+💬 **Languages:** JavaScript, Python, C++  
 🎨 **Frontend:** HTML, CSS, React.js  
-⚙️ **Backend:** Node.js, Express.js  
-🗄️ **Database:** MongoDB, MySQL  
-🧰 **Tools:** Git, VS Code, Postman  
+🧩 **Backend:** Node.js, Express.js  
+🗃️ **Database:** MongoDB, MySQL  
+⚙️ **Tools:** Git, VS Code, Postman  
 
 ---
 
-### 💭 Interests  
+### 🌱 Interests
 - Full-Stack Development  
-- UI/UX & Frontend Aesthetics  
-- Automation & Smart Systems  
-- Cloud and Scalable Solutions  
-
----
-
-### 🚀 Goals  
-- Keep improving my dev skills  
-- Build impactful, real projects  
-- Never stop learning 🌙  
+- Animation & Design  
+- AI & Prompt Engineering  
+- UI/UX Creativity  
+- Open-Source Collaboration  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,9A00FF&height=120&section=footer"/>
 </p>
