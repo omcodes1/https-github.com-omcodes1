@@ -1,43 +1,46 @@
-<h1 align="center">Hey there 👋 I'm Om!</h1>
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Hey+there+👋+I'm+Om!;Web+Developer+%7C+Tech+Explorer;Creating+Cool+Stuff+with+Code+💻" alt="Typing SVG" />
+</h1>
 
+<!-- Glowing divider -->
 <p align="center">
-💻 <b>Computer Diploma Student</b> | 🌱 Passionate about <b>Web Development & Emerging Tech</b><br>
-✨ Always exploring new tools, frameworks, and creative solutions
+  <img src="https://img.shields.io/badge/-⚡_Welcome_to_my_dark_zone_⚡-0d1117?style=for-the-badge&logoColor=00F5FF&labelColor=0d1117&color=0d1117">
 </p>
 
 ---
 
-### 🧭 About Me  
-I’m a developer who loves turning ideas into functional, elegant web applications.  
-I focus on building projects that are efficient, scalable, and user-friendly.  
-Currently exploring the MERN stack and learning more about cloud deployment.
+### 🌌 About Me  
+I’m a Computer Diploma student who loves building clean, responsive, and modern web apps.  
+Exploring full-stack development and learning how tech can solve real-world problems.  
+Focused on growth, creativity, and writing code that feels like art 🎨  
 
 ---
 
-### ⚙️ Tech Stack
-💡 **Languages:** JavaScript, Python, C++  
-🧩 **Frontend:** HTML, CSS, React.js  
-🛠️ **Backend:** Node.js, Express.js  
+### ⚙️ Tech Stack  
+🧠 **Languages:** JavaScript, Python, C++  
+🎨 **Frontend:** HTML, CSS, React.js  
+⚙️ **Backend:** Node.js, Express.js  
 🗄️ **Database:** MongoDB, MySQL  
 🧰 **Tools:** Git, VS Code, Postman  
 
 ---
 
-### 🌱 Interests
-- Full Stack Web Development  
-- Software Design & Architecture  
-- Automation and AI Integration  
-- UI/UX Design Principles  
+### 💭 Interests  
+- Full-Stack Development  
+- UI/UX & Frontend Aesthetics  
+- Automation & Smart Systems  
+- Cloud and Scalable Solutions  
 
 ---
 
-### 🎯 Goals
-- Build meaningful and impactful software  
-- Contribute to open-source projects  
-- Keep learning, keep evolving 🚀  
+### 🚀 Goals  
+- Keep improving my dev skills  
+- Build impactful, real projects  
+- Never stop learning 🌙  
 
 ---
 
 <p align="center">
-⭐ <i>"Strive for progress, not perfection."</i> ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=80&section=footer"/>
 </p>
