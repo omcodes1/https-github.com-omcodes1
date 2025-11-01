@@ -1,7 +1,8 @@
 <!-- Working typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Om!;Web+Developer+%7C+Tech+Explorer;Creating+Cool+Stuff+with+Code+💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Om!;Web+Developer+%7C+Tech+Explorer;Creating+Cool+Stuff+with+Code+💻" alt="Typing Animation">
 </p>
+
 
 ---
 
