@@ -1,45 +1,43 @@
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9A00FF,00FFFF&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9A00FF,00FFFF&height=120&section=header"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9A00FF&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Om+👋;Welcome+to+my+coding+zone!;Building+clean+and+modern+web+apps." alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9A00FF&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Om+👋;Welcome+to+my+creative+hub!;Crafting+immersive+2D+&+3D+experiences." alt="Typing Animation"/>
 </p>
 
 ---
 
-### ⚡ Welcome to My Dark Zone
+### ⚡ Welcome to My Creative Studio
 
 ---
 
 ### 🧠 About Me
-I’m a **B.Tech student** who loves building clean, responsive, and modern web apps.  
-Also an **Animator** with a creative eye for visuals and smooth motion.  
-Currently exploring how **AI and Prompt Engineering** can enhance productivity and creativity in development.  
-Focused on **growth**, **creativity**, and writing code that feels like art 🎨.
+I’m a **B.Tech** graduate with a strong focus on the intersection of technology and art.  
+A professional **Animator** and **Motion Designer** skilled in bringing concepts to life through 2D and 3D graphics.  
+Currently exploring how **AI and Prompt Engineering** can enhance productivity and creativity in visual design.  
+Focused on **growth**, **creativity**, and crafting visuals that feel like art 🎨.
 
 ---
 
-### 🛠️ Tech Stack
-💬 **Languages:** JavaScript, Python, C++  
-🎨 **Frontend:** HTML, CSS, React.js  
-🧩 **Backend:** Node.js, Express.js  
-🗃️ **Database:** MongoDB, MySQL  
-⚙️ **Tools:** Git, VS Code, Postman  
+### 🛠️ Creative Tools & Skills
+💬 **Languages:** Python, C++ (for scripting/tools)  
+🖥️ **3D & Graphics:** Blender, Maya, Adobe Photoshop  
+🎬 **Animation & Motion:** Adobe After Effects, Adobe Animate  
+✨ **Design:** Figma, Adobe Illustrator  
+⚙️ **Tools:** Git, VS Code  
 
 ---
 
 ### 🌱 Interests
-- Full-Stack Development  
-- Animation & Design  
-- AI & Prompt Engineering  
-- UI/UX Creativity  
-- Open-Source Collaboration  
+- 2D & 3D Animation (Character/Motion Graphics)  
+- Visual Storytelling & Design  
+- AI & Prompt Engineering for Art Generation  
+- UI/UX Creativity (Visual Aspects)  
+- Open-Source Assets & Shaders  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,9A00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,9A00FF&height=120&section=footer"/>
 </p>
